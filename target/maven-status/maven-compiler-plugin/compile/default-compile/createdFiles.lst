@@ -1,0 +1,4 @@
+com\srl\shopify_estore_api\JAXRSConfiguration.class
+com\srl\shopify_estore_api\resources\JavaEE8Resource.class
+com\srl\shopify_estore_api\EventResource.class
+com\srl\shopify_estore_api\DB.class
