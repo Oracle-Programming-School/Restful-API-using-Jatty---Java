@@ -6,7 +6,9 @@
                 <packaging>war</packaging>
             </packagings>
             <goals>
-                <goal>jetty:run</goal>
+                 <goal>clean</goal>
+                  <goal>compile</goal>
+                <goal>install</goal>
             </goals>
         </action>
     </actions>
